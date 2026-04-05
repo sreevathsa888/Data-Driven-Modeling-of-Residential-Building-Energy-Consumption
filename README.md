@@ -1,4 +1,4 @@
-# 🏠 Data-Driven Modeling of Residential Building Energy Consumption
+# Data-Driven Modeling of Residential Building Energy Consumption
 
 ---
 
@@ -66,6 +66,7 @@ Data → EDA → Preprocessing → Modeling → Evaluation → Feature Importanc
 * Scatter Plots
 * Pairplot
 * Boxplots
+<img width="1000" height="800" alt="01_heatmap" src="https://github.com/user-attachments/assets/6eed59d0-900d-4d68-bcbc-fd8a295faf53" />
 
 ### 🧠 Key Insights:
 
@@ -107,6 +108,11 @@ Data → EDA → Preprocessing → Modeling → Evaluation → Feature Importanc
 * R² Score
 * RMSE
 * MAE
+* <img width="1000" height="600" alt="06_r2_comparison" src="https://github.com/user-attachments/assets/9183e66f-8c0f-441f-9ec1-2e293de9d2e2" />
+<img width="1000" height="600" alt="07_rmse_comparison" src="https://github.com/user-attachments/assets/bc51f41e-8eeb-4242-ad6f-048ce10d9a06" />
+<img width="1000" height="600" alt="08_mae_comparison" src="https://github.com/user-attachments/assets/0a1887ea-a97f-41eb-9ae3-b43a67055b10" />
+<img width="600" height="600" alt="09_actual_vs_predicted" src="https://github.com/user-attachments/assets/66b26cac-9f12-4601-9aeb-1b61fc95d55a" />
+
 
 ### 📈 Model Performance Table:
 
@@ -138,6 +144,10 @@ Data → EDA → Preprocessing → Modeling → Evaluation → Feature Importanc
 | Random Forest Importance | Feature ranking               |
 | SHAP Analysis            | Detailed feature contribution |
 
+<img width="1000" height="600" alt="10_rf_feature_importance" src="https://github.com/user-attachments/assets/44e78c62-502b-4e8d-968e-d13775ad4f8e" />
+<img width="800" height="470" alt="11_shap_summary" src="https://github.com/user-attachments/assets/e6e0453b-1359-499d-a76d-4a90ac6a32f4" />
+
+
 ### 🧠 Key Findings:
 
 * Relative Compactness is the most important feature
@@ -152,6 +162,8 @@ Data → EDA → Preprocessing → Modeling → Evaluation → Feature Importanc
 
 * Residual Plot
 * Residual Distribution
+<img width="600" height="600" alt="12_residual_plot" src="https://github.com/user-attachments/assets/b4e7c7ca-b841-4ef9-a3bf-0a79f5835200" />
+<img width="640" height="480" alt="13_residual_distribution" src="https://github.com/user-attachments/assets/d7c15f48-07d1-4d87-9310-a0f8b6868222" />
 
 ### Observations:
 
@@ -165,6 +177,7 @@ Data → EDA → Preprocessing → Modeling → Evaluation → Feature Importanc
 
 * Neural Network trained using MLPRegressor
 * Training loss curve plotted
+<img width="800" height="500" alt="14_nn_loss_curve" src="https://github.com/user-attachments/assets/6f554b24-2a60-415f-94a4-47b4cd3956b1" />
 
 ### Observations:
 
@@ -248,10 +261,8 @@ This project demonstrates how machine learning techniques can effectively predic
 
 # 👨‍💻 Author
 
-**Sreevathsa Oleti**
-**Kushal**
+**Sreevathsa Oleti**,
+**Kushal**,
 **Arnav**
 
 ---
-
-# ⭐ If you found this project useful, give it a star!
