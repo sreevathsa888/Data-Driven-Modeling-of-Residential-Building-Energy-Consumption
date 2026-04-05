@@ -225,6 +225,13 @@ Data → EDA → Preprocessing → Modeling → Evaluation → Feature Importanc
 * Captures complex relationships
 
 ---
+# Power BI Dashboard
+
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/35bee3c8-0bcf-4449-9bd7-b366db2d599f" />
+
+
+<img width="650"  alt="image" src="https://github.com/user-attachments/assets/102efba0-b769-4c88-95fa-68ab12acdb41" />
+
 
 # 🏆 Final Results
 
