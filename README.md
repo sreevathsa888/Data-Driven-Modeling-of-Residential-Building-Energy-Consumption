@@ -227,9 +227,10 @@ Data → EDA → Preprocessing → Modeling → Evaluation → Feature Importanc
 ---
 # Power BI Dashboard
 
+* EDA Dashboard
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/35bee3c8-0bcf-4449-9bd7-b366db2d599f" />
 
-
+* Model Analysis
 <img width="650"  alt="image" src="https://github.com/user-attachments/assets/102efba0-b769-4c88-95fa-68ab12acdb41" />
 
 
